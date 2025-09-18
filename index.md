@@ -58,3 +58,10 @@ layout: default
 　　- 　备现金£10买实体卡（部分小店只收现金）  
 　　- 　关掉iCloud自动备份（省流量！）  
 　　最后唠句实在的：2025年英国流量成本比2024年涨了5%，但选对策略反而更省钱。上次回程前我把O2卡退了，退押金居然多给£2——运营商怕你转网，小恩小惠别放过。信号满格的旅行，才配叫完美假期，你说是吧？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [United Kingdom SIM 卡购买与激活指南](https://faciylike.github.io/united-kingdom-sim-guides)
